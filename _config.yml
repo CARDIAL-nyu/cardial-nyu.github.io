@@ -4,3 +4,5 @@ plugins:
 
 title: CARDIAL-nyu
 description: Cardiac Imaging and Analysis Laboratory @ New York University, Grossman School of Medicine
+logo: /cover.png
+show_downloads: true
