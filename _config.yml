@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: CARDIAL-nyu
+title: 
 description: Cardiac Imaging and Analysis Laboratory @ New York University, Grossman School of Medicine
 logo: /default.png
 show_downloads: true
